@@ -3664,4 +3664,4 @@ See the book above for the description.
 
 ## Credit
 
-Maintained by [Richard Littauer](https://github.com/RichardLitt) and [these marvelous humanoids](https://github.com/sindresorhus/awesome-scifi/graphs/contributors) ⭐ 4,792 | 🐛 0 | 📅 2025-12-22.
+Maintained by [Richard Littauer](https://github.com/RichardLitt) and [these marvelous humanoids](https://github.com/sindresorhus/awesome-scifi/graphs/contributors) ⭐ 4,793 | 🐛 0 | 📅 2025-12-22.
